@@ -23,5 +23,11 @@ game = [[1, 2, 1],
         [2, 1, 1],
         [1, 1, 2]]
 
-# Check for winning conditions and declare the winner or a draw
-# Outputs "PLAYER 1 won" in this scenario
+Check for winning conditions and declare the winner or a draw
+Outputs "PLAYER 1 won" in this scenario
+
+🌐 Your Feedback Matters! 🌐 I invite you to connect with me, share your valuable thoughts. Let's embark on this coding adventure together and celebrate the magic of innovation! 🚀🎉
+
+🌟 Connect with Me: Let's collaborate and innovate together! Stay updated on exciting developments and coding adventures by connecting with me on LinkedIn: https://www.linkedin.com/in/hafiz-muhammad-owais-zafar
+
+#Fungame #Python #Learning
